@@ -1,5 +1,7 @@
 # 📊 Nifty100 Financial Intelligence Platform
 
+Python | SQLite | ETL | Financial Analytics | Data Engineering
+
 A Financial Intelligence Platform built using **Python**, **SQLite**, and **Pandas** to analyze financial data of Nifty 100 companies. The project follows an end-to-end ETL workflow, beginning with data ingestion and validation, and will gradually expand into financial ratio analysis, company comparison, dashboards, and reporting.
 
 ---
