@@ -1,0 +1,1153 @@
+company_id,year,cfo_sign,cfi_sign,cff_sign,pattern_label
+TCS,2013,+,-,-,Reinvestment
+TCS,2014,+,-,-,Reinvestment
+TCS,2015,+,-,-,Reinvestment
+TCS,2016,+,-,-,Reinvestment
+TCS,2017,+,-,-,Reinvestment
+TCS,2018,+,+,-,Shareholder Returns
+TCS,2019,+,+,-,Shareholder Returns
+TCS,2020,+,+,-,Shareholder Returns
+TCS,2021,+,-,-,Reinvestment
+TCS,2022,+,-,-,Reinvestment
+TCS,2023,+,+,-,Shareholder Returns
+TCS,2024,+,+,-,Shareholder Returns
+ABB,2012,+,-,-,Reinvestment
+ABB,2014,+,-,-,Reinvestment
+ABB,2015,+,-,-,Reinvestment
+ABB,2016,+,-,-,Reinvestment
+ABB,2017,+,-,-,Reinvestment
+ABB,2018,+,-,-,Reinvestment
+ABB,2019,+,-,-,Reinvestment
+ABB,2020,+,-,-,Reinvestment
+ABB,2021,+,-,-,Reinvestment
+ABB,2022,+,-,-,Reinvestment
+ABB,2023,+,-,-,Reinvestment
+ABB,2024,+,-,-,Reinvestment
+ADANIENSOL,2014,0,0,0,Other
+ADANIENSOL,2015,-,-,+,Debt Funded Growth
+ADANIENSOL,2016,+,-,-,Reinvestment
+ADANIENSOL,2017,+,-,-,Reinvestment
+ADANIENSOL,2018,+,-,+,Mixed
+ADANIENSOL,2019,+,-,+,Mixed
+ADANIENSOL,2020,+,-,+,Mixed
+ADANIENSOL,2021,+,-,-,Reinvestment
+ADANIENSOL,2022,+,-,-,Reinvestment
+ADANIENSOL,2023,+,-,+,Mixed
+ADANIENSOL,2024,+,-,-,Reinvestment
+ADANIENT,2013,+,-,+,Mixed
+ADANIENT,2014,+,-,-,Reinvestment
+ADANIENT,2015,+,-,+,Mixed
+ADANIENT,2016,+,-,-,Reinvestment
+ADANIENT,2017,+,-,+,Mixed
+ADANIENT,2018,+,-,+,Mixed
+ADANIENT,2019,+,+,-,Shareholder Returns
+ADANIENT,2020,+,-,-,Reinvestment
+ADANIENT,2021,+,-,+,Mixed
+ADANIENT,2022,+,-,+,Mixed
+ADANIENT,2023,+,-,-,Reinvestment
+ADANIENT,2024,+,-,+,Mixed
+ADANIGREEN,2017,+,-,+,Mixed
+ADANIGREEN,2018,+,-,+,Mixed
+ADANIGREEN,2019,+,-,+,Mixed
+ADANIGREEN,2020,+,-,+,Mixed
+ADANIGREEN,2021,+,-,+,Mixed
+ADANIGREEN,2022,+,-,+,Mixed
+ADANIGREEN,2023,+,-,-,Reinvestment
+ADANIGREEN,2024,+,-,+,Mixed
+ADANIPORTS,2013,+,-,+,Mixed
+ADANIPORTS,2014,+,-,+,Mixed
+ADANIPORTS,2015,+,-,-,Reinvestment
+ADANIPORTS,2016,+,-,+,Mixed
+ADANIPORTS,2017,+,-,-,Reinvestment
+ADANIPORTS,2018,+,-,-,Reinvestment
+ADANIPORTS,2019,+,-,+,Mixed
+ADANIPORTS,2020,+,-,-,Reinvestment
+ADANIPORTS,2021,+,-,+,Mixed
+ADANIPORTS,2022,+,-,-,Reinvestment
+ADANIPORTS,2023,+,-,-,Reinvestment
+ADANIPORTS,2024,+,-,-,Reinvestment
+ADANIPOWER,2013,+,-,+,Mixed
+ADANIPOWER,2014,+,-,+,Mixed
+ADANIPOWER,2015,+,-,-,Reinvestment
+ADANIPOWER,2016,+,-,-,Reinvestment
+ADANIPOWER,2017,+,-,-,Reinvestment
+ADANIPOWER,2018,+,-,-,Reinvestment
+ADANIPOWER,2019,+,-,-,Reinvestment
+ADANIPOWER,2020,+,-,-,Reinvestment
+ADANIPOWER,2021,+,-,-,Reinvestment
+ADANIPOWER,2022,+,+,-,Shareholder Returns
+ADANIPOWER,2023,+,+,-,Shareholder Returns
+ADANIPOWER,2024,+,+,-,Shareholder Returns
+AMBUJACEM,2012,+,-,-,Reinvestment
+AMBUJACEM,2013,+,-,-,Reinvestment
+AMBUJACEM,2014,+,-,-,Reinvestment
+AMBUJACEM,2015,+,-,-,Reinvestment
+AMBUJACEM,2016,+,-,-,Reinvestment
+AMBUJACEM,2017,+,-,-,Reinvestment
+AMBUJACEM,2018,+,-,-,Reinvestment
+AMBUJACEM,2019,+,-,-,Reinvestment
+AMBUJACEM,2020,+,-,-,Reinvestment
+AMBUJACEM,2021,+,-,-,Reinvestment
+AMBUJACEM,2023,+,-,+,Mixed
+AMBUJACEM,2024,+,-,+,Mixed
+APOLLOHOSP,2013,+,-,+,Mixed
+APOLLOHOSP,2014,+,-,-,Reinvestment
+APOLLOHOSP,2015,+,-,+,Mixed
+APOLLOHOSP,2016,+,-,+,Mixed
+APOLLOHOSP,2017,+,-,+,Mixed
+APOLLOHOSP,2018,+,-,-,Reinvestment
+APOLLOHOSP,2019,+,-,-,Reinvestment
+APOLLOHOSP,2020,+,-,-,Reinvestment
+APOLLOHOSP,2021,+,-,-,Reinvestment
+APOLLOHOSP,2022,+,-,-,Reinvestment
+APOLLOHOSP,2023,+,-,-,Reinvestment
+APOLLOHOSP,2024,+,-,-,Reinvestment
+ASIANPAINT,2013,+,-,-,Reinvestment
+ASIANPAINT,2014,+,-,-,Reinvestment
+ASIANPAINT,2015,+,-,-,Reinvestment
+ASIANPAINT,2016,+,-,-,Reinvestment
+ASIANPAINT,2017,+,-,-,Reinvestment
+ASIANPAINT,2018,+,-,-,Reinvestment
+ASIANPAINT,2019,+,-,-,Reinvestment
+ASIANPAINT,2020,+,-,-,Reinvestment
+ASIANPAINT,2021,+,-,-,Reinvestment
+ASIANPAINT,2022,+,-,-,Reinvestment
+ASIANPAINT,2023,+,-,-,Reinvestment
+ASIANPAINT,2024,+,-,-,Reinvestment
+ATGL,2018,+,-,+,Mixed
+ATGL,2019,+,+,-,Shareholder Returns
+ATGL,2020,+,-,-,Reinvestment
+ATGL,2021,+,-,+,Mixed
+ATGL,2022,+,-,+,Mixed
+ATGL,2023,+,-,+,Mixed
+ATGL,2024,+,-,-,Reinvestment
+AXISBANK,2013,+,-,+,Mixed
+AXISBANK,2014,+,-,+,Mixed
+AXISBANK,2015,-,-,+,Debt Funded Growth
+AXISBANK,2016,-,+,+,Distress
+AXISBANK,2017,+,-,-,Reinvestment
+AXISBANK,2018,-,-,+,Debt Funded Growth
+AXISBANK,2019,+,-,+,Mixed
+AXISBANK,2020,+,-,+,Mixed
+AXISBANK,2021,+,-,+,Mixed
+AXISBANK,2022,+,-,+,Mixed
+AXISBANK,2023,+,-,+,Mixed
+AXISBANK,2024,-,-,+,Debt Funded Growth
+BAJAJ-AUTO,2013,+,-,-,Reinvestment
+BAJAJ-AUTO,2014,+,-,-,Reinvestment
+BAJAJ-AUTO,2015,+,-,-,Reinvestment
+BAJAJ-AUTO,2016,+,-,-,Reinvestment
+BAJAJ-AUTO,2017,+,-,-,Reinvestment
+BAJAJ-AUTO,2018,+,-,-,Reinvestment
+BAJAJ-AUTO,2019,+,-,-,Reinvestment
+BAJAJ-AUTO,2020,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2021,+,-,-,Reinvestment
+BAJAJ-AUTO,2022,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2023,+,+,-,Shareholder Returns
+BAJAJ-AUTO,2024,+,-,-,Reinvestment
+BAJAJFINSV,2013,-,+,+,Distress
+BAJAJFINSV,2014,-,+,+,Distress
+BAJAJFINSV,2015,-,+,+,Distress
+BAJAJFINSV,2016,-,-,+,Debt Funded Growth
+BAJAJFINSV,2017,-,+,+,Distress
+BAJAJFINSV,2018,-,-,+,Debt Funded Growth
+BAJAJFINSV,2019,-,-,+,Debt Funded Growth
+BAJAJFINSV,2020,-,-,+,Debt Funded Growth
+BAJAJFINSV,2021,+,-,+,Mixed
+BAJAJFINSV,2022,-,+,+,Distress
+BAJAJFINSV,2023,-,-,+,Debt Funded Growth
+BAJAJFINSV,2024,-,-,+,Debt Funded Growth
+BAJAJHLDNG,2013,+,-,-,Reinvestment
+BAJAJHLDNG,2014,+,-,-,Reinvestment
+BAJAJHLDNG,2015,+,-,-,Reinvestment
+BAJAJHLDNG,2016,+,+,-,Shareholder Returns
+BAJAJHLDNG,2017,-,-,-,Pre-Revenue
+BAJAJHLDNG,2018,+,-,-,Reinvestment
+BAJAJHLDNG,2019,+,-,-,Reinvestment
+BAJAJHLDNG,2020,+,-,-,Reinvestment
+BAJAJHLDNG,2021,+,-,-,Reinvestment
+BAJAJHLDNG,2022,+,-,-,Reinvestment
+BAJAJHLDNG,2023,+,-,-,Reinvestment
+BAJAJHLDNG,2024,+,-,-,Reinvestment
+BAJFINANCE,2015,-,-,+,Debt Funded Growth
+BAJFINANCE,2016,-,-,+,Debt Funded Growth
+BAJFINANCE,2017,-,-,+,Debt Funded Growth
+BAJFINANCE,2018,-,+,+,Distress
+BAJFINANCE,2019,-,-,+,Debt Funded Growth
+BAJFINANCE,2020,-,-,+,Debt Funded Growth
+BAJFINANCE,2021,-,-,+,Debt Funded Growth
+BAJFINANCE,2022,-,+,+,Distress
+BAJFINANCE,2023,-,-,+,Debt Funded Growth
+BAJFINANCE,2024,-,-,+,Debt Funded Growth
+BANKBARODA,2013,+,-,-,Reinvestment
+BANKBARODA,2014,+,-,+,Mixed
+BANKBARODA,2015,+,-,-,Reinvestment
+BANKBARODA,2016,-,-,-,Pre-Revenue
+BANKBARODA,2017,+,-,-,Reinvestment
+BANKBARODA,2018,-,-,+,Debt Funded Growth
+BANKBARODA,2019,-,-,+,Debt Funded Growth
+BANKBARODA,2020,+,-,+,Mixed
+BANKBARODA,2021,-,-,-,Pre-Revenue
+BANKBARODA,2022,+,-,-,Reinvestment
+BANKBARODA,2023,-,-,-,Pre-Revenue
+BANKBARODA,2024,-,-,+,Debt Funded Growth
+BEL,2013,-,+,-,Mixed
+BEL,2014,-,+,-,Mixed
+BEL,2015,+,-,-,Reinvestment
+BEL,2016,+,-,-,Reinvestment
+BEL,2017,-,+,-,Mixed
+BEL,2018,-,-,-,Pre-Revenue
+BEL,2019,+,-,-,Reinvestment
+BEL,2020,+,-,-,Reinvestment
+BEL,2021,+,-,-,Reinvestment
+BEL,2022,+,-,-,Reinvestment
+BEL,2023,+,+,-,Shareholder Returns
+BEL,2024,+,-,-,Reinvestment
+BHARTIARTL,2013,+,-,-,Reinvestment
+BHARTIARTL,2014,+,-,+,Mixed
+BHARTIARTL,2015,+,-,-,Reinvestment
+BHARTIARTL,2016,+,-,-,Reinvestment
+BHARTIARTL,2017,+,-,-,Reinvestment
+BHARTIARTL,2018,+,-,+,Mixed
+BHARTIARTL,2019,+,-,+,Mixed
+BHARTIARTL,2020,+,-,+,Mixed
+BHARTIARTL,2021,+,-,-,Reinvestment
+BHARTIARTL,2022,+,-,-,Reinvestment
+BHARTIARTL,2023,+,-,-,Reinvestment
+BHARTIARTL,2024,+,-,-,Reinvestment
+BHEL,2013,+,-,+,Mixed
+BHEL,2014,+,-,+,Mixed
+BHEL,2015,+,+,-,Shareholder Returns
+BHEL,2016,+,+,-,Shareholder Returns
+BHEL,2017,+,-,-,Reinvestment
+BHEL,2018,+,+,-,Shareholder Returns
+BHEL,2019,-,+,-,Mixed
+BHEL,2020,-,+,+,Distress
+BHEL,2021,+,-,-,Reinvestment
+BHEL,2022,+,-,-,Reinvestment
+BHEL,2023,-,+,+,Distress
+BHEL,2024,-,+,+,Distress
+BOSCHLTD,2012,+,-,-,Reinvestment
+BOSCHLTD,2013,+,-,-,Reinvestment
+BOSCHLTD,2015,+,-,-,Reinvestment
+BOSCHLTD,2016,+,-,-,Reinvestment
+BOSCHLTD,2017,+,+,-,Shareholder Returns
+BOSCHLTD,2018,+,-,-,Reinvestment
+BOSCHLTD,2019,+,+,-,Shareholder Returns
+BOSCHLTD,2020,+,-,-,Reinvestment
+BOSCHLTD,2021,+,-,-,Reinvestment
+BOSCHLTD,2022,+,-,-,Reinvestment
+BOSCHLTD,2023,+,+,-,Shareholder Returns
+BOSCHLTD,2024,+,+,-,Shareholder Returns
+BPCL,2013,+,-,-,Reinvestment
+BPCL,2014,+,-,-,Reinvestment
+BPCL,2015,+,-,-,Reinvestment
+BPCL,2016,+,-,-,Reinvestment
+BPCL,2017,+,-,+,Mixed
+BPCL,2018,+,-,-,Reinvestment
+BPCL,2019,+,-,+,Mixed
+BPCL,2020,+,-,+,Mixed
+BPCL,2021,+,-,-,Reinvestment
+BPCL,2022,+,-,-,Reinvestment
+BPCL,2023,+,-,-,Reinvestment
+BPCL,2024,+,-,-,Reinvestment
+BRITANNIA,2013,+,+,-,Shareholder Returns
+BRITANNIA,2014,+,-,-,Reinvestment
+BRITANNIA,2015,+,-,-,Reinvestment
+BRITANNIA,2016,+,-,-,Reinvestment
+BRITANNIA,2017,+,-,-,Reinvestment
+BRITANNIA,2018,+,-,-,Reinvestment
+BRITANNIA,2019,+,-,-,Reinvestment
+BRITANNIA,2020,+,-,+,Mixed
+BRITANNIA,2021,+,+,-,Shareholder Returns
+BRITANNIA,2022,+,+,-,Shareholder Returns
+BRITANNIA,2023,+,-,-,Reinvestment
+BRITANNIA,2024,+,+,-,Shareholder Returns
+CANBK,2013,+,-,-,Reinvestment
+CANBK,2014,+,-,-,Reinvestment
+CANBK,2015,+,-,-,Reinvestment
+CANBK,2016,+,-,-,Reinvestment
+CANBK,2017,+,-,+,Mixed
+CANBK,2018,-,-,+,Debt Funded Growth
+CANBK,2019,+,-,-,Reinvestment
+CANBK,2020,-,-,+,Debt Funded Growth
+CANBK,2021,+,-,+,Mixed
+CANBK,2022,+,-,+,Mixed
+CANBK,2023,-,-,+,Debt Funded Growth
+CANBK,2024,+,-,-,Reinvestment
+CHOLAFIN,2013,-,+,+,Distress
+CHOLAFIN,2014,-,-,+,Debt Funded Growth
+CHOLAFIN,2015,-,-,+,Debt Funded Growth
+CHOLAFIN,2016,-,-,+,Debt Funded Growth
+CHOLAFIN,2017,-,-,+,Debt Funded Growth
+CHOLAFIN,2018,-,-,+,Debt Funded Growth
+CHOLAFIN,2019,-,-,+,Debt Funded Growth
+CHOLAFIN,2020,-,-,+,Debt Funded Growth
+CHOLAFIN,2021,-,-,+,Debt Funded Growth
+CHOLAFIN,2022,-,+,+,Distress
+CHOLAFIN,2023,-,-,+,Debt Funded Growth
+CHOLAFIN,2024,-,-,+,Debt Funded Growth
+CIPLA,2013,+,-,+,Mixed
+CIPLA,2014,+,-,-,Reinvestment
+CIPLA,2015,+,-,+,Mixed
+CIPLA,2016,+,-,+,Mixed
+CIPLA,2017,+,-,-,Reinvestment
+CIPLA,2018,+,-,-,Reinvestment
+CIPLA,2019,+,-,-,Reinvestment
+CIPLA,2020,+,+,-,Shareholder Returns
+CIPLA,2021,+,-,-,Reinvestment
+CIPLA,2022,+,-,-,Reinvestment
+CIPLA,2023,+,-,-,Reinvestment
+CIPLA,2024,+,-,-,Reinvestment
+COALINDIA,2013,+,-,-,Reinvestment
+COALINDIA,2014,+,+,-,Shareholder Returns
+COALINDIA,2015,+,+,-,Shareholder Returns
+COALINDIA,2016,+,+,-,Shareholder Returns
+COALINDIA,2017,+,+,-,Shareholder Returns
+COALINDIA,2018,+,-,-,Reinvestment
+COALINDIA,2019,+,-,-,Reinvestment
+COALINDIA,2020,+,+,-,Shareholder Returns
+COALINDIA,2021,+,+,-,Shareholder Returns
+COALINDIA,2022,+,-,-,Reinvestment
+COALINDIA,2023,+,-,-,Reinvestment
+COALINDIA,2024,+,-,-,Reinvestment
+DABUR,2013,+,-,-,Reinvestment
+DABUR,2014,+,-,-,Reinvestment
+DABUR,2015,+,-,-,Reinvestment
+DABUR,2016,+,-,-,Reinvestment
+DABUR,2017,+,-,-,Reinvestment
+DABUR,2018,+,-,-,Reinvestment
+DABUR,2019,+,+,-,Shareholder Returns
+DABUR,2020,+,-,-,Reinvestment
+DABUR,2021,+,-,-,Reinvestment
+DABUR,2022,+,-,-,Reinvestment
+DABUR,2023,+,-,-,Reinvestment
+DABUR,2024,+,-,-,Reinvestment
+DIVISLAB,2013,+,-,-,Reinvestment
+DIVISLAB,2014,+,-,-,Reinvestment
+DIVISLAB,2015,+,-,-,Reinvestment
+DIVISLAB,2016,+,-,-,Reinvestment
+DIVISLAB,2017,+,-,+,Mixed
+DIVISLAB,2018,+,-,-,Reinvestment
+DIVISLAB,2019,+,-,-,Reinvestment
+DIVISLAB,2020,+,-,-,Reinvestment
+DIVISLAB,2021,+,+,-,Shareholder Returns
+DIVISLAB,2022,+,-,-,Reinvestment
+DIVISLAB,2023,+,-,-,Reinvestment
+DIVISLAB,2024,+,-,-,Reinvestment
+DLF,2013,+,+,-,Shareholder Returns
+DLF,2014,+,+,-,Shareholder Returns
+DLF,2015,+,+,-,Shareholder Returns
+DLF,2016,+,-,-,Reinvestment
+DLF,2017,-,+,+,Distress
+DLF,2018,+,-,-,Reinvestment
+DLF,2019,+,+,+,Cash Accumulator
+DLF,2020,+,+,-,Shareholder Returns
+DLF,2021,+,+,-,Shareholder Returns
+DLF,2022,+,+,-,Shareholder Returns
+DLF,2023,+,-,-,Reinvestment
+DLF,2024,+,-,+,Mixed
+DMART,2013,+,-,+,Mixed
+DMART,2014,+,-,+,Mixed
+DMART,2015,+,-,+,Mixed
+DMART,2016,+,-,+,Mixed
+DMART,2017,+,-,+,Mixed
+DMART,2018,+,+,-,Shareholder Returns
+DMART,2019,+,-,+,Mixed
+DMART,2020,+,-,+,Mixed
+DMART,2021,+,-,-,Reinvestment
+DMART,2022,+,-,-,Reinvestment
+DMART,2023,+,-,-,Reinvestment
+DMART,2024,+,-,-,Reinvestment
+DRREDDY,2013,+,-,-,Reinvestment
+DRREDDY,2014,+,-,-,Reinvestment
+DRREDDY,2015,+,-,-,Reinvestment
+DRREDDY,2016,+,-,-,Reinvestment
+DRREDDY,2017,+,-,-,Reinvestment
+DRREDDY,2018,+,-,-,Reinvestment
+DRREDDY,2019,+,-,-,Reinvestment
+DRREDDY,2020,+,-,-,Reinvestment
+DRREDDY,2021,+,-,-,Reinvestment
+DRREDDY,2022,+,-,-,Reinvestment
+DRREDDY,2023,+,-,-,Reinvestment
+DRREDDY,2024,+,-,-,Reinvestment
+EICHERMOT,2012,+,-,-,Reinvestment
+EICHERMOT,2013,+,-,-,Reinvestment
+EICHERMOT,2014,+,-,-,Reinvestment
+EICHERMOT,2016,+,-,-,Reinvestment
+EICHERMOT,2017,+,-,+,Mixed
+EICHERMOT,2018,+,-,-,Reinvestment
+EICHERMOT,2019,+,-,-,Reinvestment
+EICHERMOT,2020,+,-,-,Reinvestment
+EICHERMOT,2021,+,-,-,Reinvestment
+EICHERMOT,2022,+,-,-,Reinvestment
+EICHERMOT,2023,+,-,-,Reinvestment
+EICHERMOT,2024,+,-,-,Reinvestment
+GAIL,2013,+,-,+,Mixed
+GAIL,2014,+,-,-,Reinvestment
+GAIL,2015,+,-,-,Reinvestment
+GAIL,2016,+,-,-,Reinvestment
+GAIL,2017,+,-,-,Reinvestment
+GAIL,2018,+,-,-,Reinvestment
+GAIL,2019,+,-,-,Reinvestment
+GAIL,2020,+,-,+,Mixed
+GAIL,2021,+,-,-,Reinvestment
+GAIL,2022,+,-,-,Reinvestment
+GAIL,2023,+,-,+,Mixed
+GAIL,2024,+,-,-,Reinvestment
+GODREJCP,2013,+,-,+,Mixed
+GODREJCP,2014,+,-,-,Reinvestment
+GODREJCP,2015,+,-,-,Reinvestment
+GODREJCP,2016,+,-,-,Reinvestment
+GODREJCP,2017,+,-,+,Mixed
+GODREJCP,2018,+,-,-,Reinvestment
+GODREJCP,2019,+,+,-,Shareholder Returns
+GODREJCP,2020,+,-,-,Reinvestment
+GODREJCP,2021,+,-,-,Reinvestment
+GODREJCP,2022,+,-,-,Reinvestment
+GODREJCP,2023,+,-,-,Reinvestment
+GODREJCP,2024,+,-,+,Mixed
+GRASIM,2013,+,-,+,Mixed
+GRASIM,2014,+,-,-,Reinvestment
+GRASIM,2015,+,-,-,Reinvestment
+GRASIM,2016,+,-,-,Reinvestment
+GRASIM,2017,+,-,-,Reinvestment
+GRASIM,2018,-,+,+,Distress
+GRASIM,2019,-,-,+,Debt Funded Growth
+GRASIM,2020,+,-,-,Reinvestment
+GRASIM,2021,+,-,-,Reinvestment
+GRASIM,2022,+,-,-,Reinvestment
+GRASIM,2023,-,-,+,Debt Funded Growth
+GRASIM,2024,-,-,+,Debt Funded Growth
+HAL,2017,-,+,-,Mixed
+HAL,2018,-,+,-,Mixed
+HAL,2019,-,+,+,Distress
+HAL,2020,+,-,+,Mixed
+HAL,2021,+,-,-,Reinvestment
+HAL,2022,+,-,-,Reinvestment
+HAL,2023,+,-,-,Reinvestment
+HAL,2024,+,-,-,Reinvestment
+HAVELLS,2013,+,-,-,Reinvestment
+HAVELLS,2014,+,-,-,Reinvestment
+HAVELLS,2015,+,-,-,Reinvestment
+HAVELLS,2016,+,-,-,Reinvestment
+HAVELLS,2017,+,-,-,Reinvestment
+HAVELLS,2018,+,-,-,Reinvestment
+HAVELLS,2019,+,+,-,Shareholder Returns
+HAVELLS,2020,+,-,-,Reinvestment
+HAVELLS,2021,+,-,+,Mixed
+HAVELLS,2022,+,-,-,Reinvestment
+HAVELLS,2023,+,+,-,Shareholder Returns
+HAVELLS,2024,+,-,-,Reinvestment
+HCLTECH,2013,+,-,-,Reinvestment
+HCLTECH,2014,+,-,-,Reinvestment
+HCLTECH,2015,+,-,-,Reinvestment
+HCLTECH,2016,+,-,-,Reinvestment
+HCLTECH,2017,+,-,-,Reinvestment
+HCLTECH,2018,+,-,-,Reinvestment
+HCLTECH,2019,+,-,-,Reinvestment
+HCLTECH,2020,+,-,-,Reinvestment
+HCLTECH,2021,+,-,-,Reinvestment
+HCLTECH,2022,+,+,-,Shareholder Returns
+HCLTECH,2023,+,-,-,Reinvestment
+HCLTECH,2024,+,-,-,Reinvestment
+HDFCBANK,2013,-,-,+,Debt Funded Growth
+HDFCBANK,2014,+,-,+,Mixed
+HDFCBANK,2015,-,-,+,Debt Funded Growth
+HDFCBANK,2016,-,-,+,Debt Funded Growth
+HDFCBANK,2017,+,-,-,Reinvestment
+HDFCBANK,2018,+,-,+,Mixed
+HDFCBANK,2019,-,-,+,Debt Funded Growth
+HDFCBANK,2020,-,-,+,Debt Funded Growth
+HDFCBANK,2021,+,-,-,Reinvestment
+HDFCBANK,2022,-,-,+,Debt Funded Growth
+HDFCBANK,2023,+,-,+,Mixed
+HDFCBANK,2024,+,+,-,Shareholder Returns
+HDFCLIFE,2013,0,0,0,Other
+HDFCLIFE,2014,0,0,0,Other
+HDFCLIFE,2015,+,-,-,Reinvestment
+HDFCLIFE,2016,+,-,-,Reinvestment
+HDFCLIFE,2017,+,-,-,Reinvestment
+HDFCLIFE,2018,+,-,-,Reinvestment
+HDFCLIFE,2019,+,-,-,Reinvestment
+HDFCLIFE,2020,+,-,+,Mixed
+HDFCLIFE,2021,+,-,+,Mixed
+HDFCLIFE,2022,+,-,-,Reinvestment
+HDFCLIFE,2023,+,-,+,Mixed
+HDFCLIFE,2024,+,-,-,Reinvestment
+HEROMOTOCO,2014,+,-,-,Reinvestment
+HEROMOTOCO,2015,+,+,-,Shareholder Returns
+HEROMOTOCO,2016,+,-,-,Reinvestment
+HEROMOTOCO,2017,+,-,-,Reinvestment
+HEROMOTOCO,2018,+,-,-,Reinvestment
+HEROMOTOCO,2019,+,+,-,Shareholder Returns
+HEROMOTOCO,2020,+,-,-,Reinvestment
+HEROMOTOCO,2021,+,-,-,Reinvestment
+HEROMOTOCO,2022,+,-,-,Reinvestment
+HEROMOTOCO,2023,+,-,-,Reinvestment
+HEROMOTOCO,2024,+,-,-,Reinvestment
+HINDALCO,2013,+,-,+,Mixed
+HINDALCO,2014,+,-,+,Mixed
+HINDALCO,2015,+,-,-,Reinvestment
+HINDALCO,2016,+,-,-,Reinvestment
+HINDALCO,2017,+,-,-,Reinvestment
+HINDALCO,2018,+,+,-,Shareholder Returns
+HINDALCO,2019,+,-,-,Reinvestment
+HINDALCO,2020,+,-,+,Mixed
+HINDALCO,2021,+,-,-,Reinvestment
+HINDALCO,2022,+,-,-,Reinvestment
+HINDALCO,2023,+,-,-,Reinvestment
+HINDALCO,2024,+,-,-,Reinvestment
+HINDUNILVR,2013,+,+,-,Shareholder Returns
+HINDUNILVR,2014,+,-,-,Reinvestment
+HINDUNILVR,2015,+,+,-,Shareholder Returns
+HINDUNILVR,2016,+,-,-,Reinvestment
+HINDUNILVR,2017,+,-,-,Reinvestment
+HINDUNILVR,2018,+,-,-,Reinvestment
+HINDUNILVR,2019,+,-,-,Reinvestment
+HINDUNILVR,2020,+,+,-,Shareholder Returns
+HINDUNILVR,2021,+,-,-,Reinvestment
+HINDUNILVR,2022,+,-,-,Reinvestment
+HINDUNILVR,2023,+,-,-,Reinvestment
+HINDUNILVR,2024,+,-,-,Reinvestment
+ICICIBANK,2013,+,-,+,Mixed
+ICICIBANK,2014,+,-,+,Mixed
+ICICIBANK,2015,-,-,+,Debt Funded Growth
+ICICIBANK,2016,+,-,+,Mixed
+ICICIBANK,2017,+,-,-,Reinvestment
+ICICIBANK,2018,+,-,+,Mixed
+ICICIBANK,2019,+,-,-,Reinvestment
+ICICIBANK,2020,+,-,+,Mixed
+ICICIBANK,2021,+,-,-,Reinvestment
+ICICIBANK,2022,+,-,+,Mixed
+ICICIBANK,2023,-,-,+,Debt Funded Growth
+ICICIBANK,2024,+,-,+,Mixed
+ICICIGI,2013,+,-,+,Mixed
+ICICIGI,2014,+,-,+,Mixed
+ICICIGI,2015,-,+,-,Mixed
+ICICIGI,2016,+,-,-,Reinvestment
+ICICIGI,2017,+,-,+,Mixed
+ICICIGI,2018,+,-,-,Reinvestment
+ICICIGI,2019,+,-,-,Reinvestment
+ICICIGI,2020,+,-,-,Reinvestment
+ICICIGI,2021,+,-,-,Reinvestment
+ICICIGI,2022,+,+,-,Shareholder Returns
+ICICIGI,2023,+,-,-,Reinvestment
+ICICIGI,2024,+,-,-,Reinvestment
+ICICIPRULI,2013,-,+,-,Mixed
+ICICIPRULI,2014,-,+,-,Mixed
+ICICIPRULI,2015,+,-,-,Reinvestment
+ICICIPRULI,2016,+,+,-,Shareholder Returns
+ICICIPRULI,2017,+,-,-,Reinvestment
+ICICIPRULI,2018,+,-,-,Reinvestment
+ICICIPRULI,2019,+,-,-,Reinvestment
+ICICIPRULI,2020,+,-,-,Reinvestment
+ICICIPRULI,2021,+,-,+,Mixed
+ICICIPRULI,2022,+,-,-,Reinvestment
+ICICIPRULI,2023,+,-,-,Reinvestment
+ICICIPRULI,2024,-,+,-,Mixed
+INDIGO,2013,+,-,+,Mixed
+INDIGO,2014,+,-,+,Mixed
+INDIGO,2015,+,-,-,Reinvestment
+INDIGO,2016,+,-,-,Reinvestment
+INDIGO,2017,+,-,-,Reinvestment
+INDIGO,2018,+,-,+,Mixed
+INDIGO,2019,+,-,-,Reinvestment
+INDIGO,2020,+,-,-,Reinvestment
+INDIGO,2021,-,+,-,Mixed
+INDIGO,2022,+,+,-,Shareholder Returns
+INDIGO,2023,+,-,-,Reinvestment
+INDIGO,2024,+,-,-,Reinvestment
+INDUSINDBK,2013,-,-,+,Debt Funded Growth
+INDUSINDBK,2014,-,-,+,Debt Funded Growth
+INDUSINDBK,2015,-,-,+,Debt Funded Growth
+INDUSINDBK,2016,-,-,+,Debt Funded Growth
+INDUSINDBK,2017,+,-,-,Reinvestment
+INDUSINDBK,2018,-,-,+,Debt Funded Growth
+INDUSINDBK,2019,-,-,+,Debt Funded Growth
+INDUSINDBK,2020,-,+,+,Distress
+INDUSINDBK,2021,+,-,-,Reinvestment
+INDUSINDBK,2022,+,-,-,Reinvestment
+INDUSINDBK,2023,-,-,+,Debt Funded Growth
+INDUSINDBK,2024,-,-,-,Pre-Revenue
+INFY,2013,+,-,-,Reinvestment
+INFY,2014,+,-,-,Reinvestment
+INFY,2015,+,+,-,Shareholder Returns
+INFY,2016,+,-,-,Reinvestment
+INFY,2017,+,-,-,Reinvestment
+INFY,2018,+,+,-,Shareholder Returns
+INFY,2019,+,-,-,Reinvestment
+INFY,2020,+,-,-,Reinvestment
+INFY,2021,+,-,-,Reinvestment
+INFY,2022,+,-,-,Reinvestment
+INFY,2023,+,-,-,Reinvestment
+INFY,2024,+,-,-,Reinvestment
+IOC,2013,+,-,+,Mixed
+IOC,2014,+,-,-,Reinvestment
+IOC,2015,+,-,-,Reinvestment
+IOC,2016,+,-,-,Reinvestment
+IOC,2017,+,-,-,Reinvestment
+IOC,2018,+,-,-,Reinvestment
+IOC,2019,+,-,+,Mixed
+IOC,2020,+,-,+,Mixed
+IOC,2021,+,-,-,Reinvestment
+IOC,2022,+,-,-,Reinvestment
+IOC,2023,+,-,-,Reinvestment
+IOC,2024,+,-,-,Reinvestment
+IRCTC,2015,+,-,-,Reinvestment
+IRCTC,2016,+,+,-,Shareholder Returns
+IRCTC,2017,+,+,-,Shareholder Returns
+IRCTC,2018,+,+,-,Shareholder Returns
+IRCTC,2019,+,-,-,Reinvestment
+IRCTC,2020,+,+,-,Shareholder Returns
+IRCTC,2021,+,-,-,Reinvestment
+IRCTC,2022,+,-,-,Reinvestment
+IRCTC,2023,+,-,-,Reinvestment
+IRCTC,2024,+,-,-,Reinvestment
+IRFC,2016,-,+,+,Distress
+IRFC,2017,-,+,+,Distress
+IRFC,2018,-,+,+,Distress
+IRFC,2019,-,+,+,Distress
+IRFC,2020,-,+,+,Distress
+IRFC,2021,-,0,+,Other
+IRFC,2022,-,-,+,Debt Funded Growth
+IRFC,2023,-,0,+,Other
+IRFC,2024,+,-,-,Reinvestment
+ITC,2013,+,-,-,Reinvestment
+ITC,2014,+,-,-,Reinvestment
+ITC,2015,+,-,-,Reinvestment
+ITC,2016,+,-,-,Reinvestment
+ITC,2017,+,-,-,Reinvestment
+ITC,2018,+,-,-,Reinvestment
+ITC,2019,+,-,-,Reinvestment
+ITC,2020,+,-,-,Reinvestment
+ITC,2021,+,+,-,Shareholder Returns
+ITC,2022,+,-,-,Reinvestment
+ITC,2023,+,-,-,Reinvestment
+ITC,2024,+,+,-,Shareholder Returns
+JINDALSTEL,2013,+,-,+,Mixed
+JINDALSTEL,2014,+,-,+,Mixed
+JINDALSTEL,2015,+,-,+,Mixed
+JINDALSTEL,2016,+,-,-,Reinvestment
+JINDALSTEL,2017,+,-,-,Reinvestment
+JINDALSTEL,2018,+,-,-,Reinvestment
+JINDALSTEL,2019,+,-,-,Reinvestment
+JINDALSTEL,2020,+,-,-,Reinvestment
+JINDALSTEL,2021,+,-,-,Reinvestment
+JINDALSTEL,2022,+,-,-,Reinvestment
+JINDALSTEL,2023,+,-,-,Reinvestment
+JINDALSTEL,2024,+,-,+,Mixed
+JIOFIN,2023,+,-,-,Reinvestment
+JIOFIN,2024,-,+,-,Mixed
+JSWENERGY,2013,+,-,-,Reinvestment
+JSWENERGY,2014,+,-,-,Reinvestment
+JSWENERGY,2015,+,-,-,Reinvestment
+JSWENERGY,2016,+,-,-,Reinvestment
+JSWENERGY,2017,+,-,-,Reinvestment
+JSWENERGY,2018,+,-,-,Reinvestment
+JSWENERGY,2019,+,-,-,Reinvestment
+JSWENERGY,2020,+,+,-,Shareholder Returns
+JSWENERGY,2021,+,-,-,Reinvestment
+JSWENERGY,2022,+,-,-,Reinvestment
+JSWENERGY,2023,+,-,+,Mixed
+JSWENERGY,2024,+,-,+,Mixed
+JSWSTEEL,2013,+,-,-,Reinvestment
+JSWSTEEL,2014,+,-,+,Mixed
+JSWSTEEL,2015,+,-,-,Reinvestment
+JSWSTEEL,2016,+,-,-,Reinvestment
+JSWSTEEL,2017,+,-,-,Reinvestment
+JSWSTEEL,2018,+,-,-,Reinvestment
+JSWSTEEL,2019,+,-,+,Mixed
+JSWSTEEL,2020,+,-,+,Mixed
+JSWSTEEL,2021,+,-,-,Reinvestment
+JSWSTEEL,2022,+,-,-,Reinvestment
+JSWSTEEL,2023,+,-,-,Reinvestment
+JSWSTEEL,2024,+,-,-,Reinvestment
+KOTAKBANK,2013,+,-,+,Mixed
+KOTAKBANK,2014,+,-,-,Reinvestment
+KOTAKBANK,2015,+,-,+,Mixed
+KOTAKBANK,2016,+,-,+,Mixed
+KOTAKBANK,2017,+,-,+,Mixed
+KOTAKBANK,2018,-,-,+,Debt Funded Growth
+KOTAKBANK,2019,+,-,+,Mixed
+KOTAKBANK,2020,+,-,-,Reinvestment
+KOTAKBANK,2021,+,-,-,Reinvestment
+KOTAKBANK,2022,+,-,+,Mixed
+KOTAKBANK,2023,-,-,+,Debt Funded Growth
+KOTAKBANK,2024,+,-,+,Mixed
+LICI,2019,+,+,-,Shareholder Returns
+LICI,2020,+,-,-,Reinvestment
+LICI,2021,+,+,-,Shareholder Returns
+LICI,2022,-,+,0,Other
+LICI,2023,+,-,-,Reinvestment
+LICI,2024,+,-,-,Reinvestment
+LODHA,2016,+,-,+,Mixed
+LODHA,2017,+,-,-,Reinvestment
+LODHA,2018,+,-,+,Mixed
+LODHA,2019,-,-,+,Debt Funded Growth
+LODHA,2020,+,+,-,Shareholder Returns
+LODHA,2021,+,+,-,Shareholder Returns
+LODHA,2022,+,+,-,Shareholder Returns
+LODHA,2023,+,+,-,Shareholder Returns
+LODHA,2024,+,-,+,Mixed
+LT,2013,-,-,+,Debt Funded Growth
+LT,2014,-,-,+,Debt Funded Growth
+LT,2015,-,-,+,Debt Funded Growth
+LT,2016,-,-,+,Debt Funded Growth
+LT,2017,+,-,+,Mixed
+LT,2018,-,+,+,Distress
+LT,2019,-,-,+,Debt Funded Growth
+LT,2020,+,-,+,Mixed
+LT,2021,+,-,-,Reinvestment
+LT,2022,+,-,-,Reinvestment
+LT,2023,+,-,-,Reinvestment
+LT,2024,+,+,-,Shareholder Returns
+LTIM,2013,+,-,-,Reinvestment
+LTIM,2014,+,+,-,Shareholder Returns
+LTIM,2015,+,-,-,Reinvestment
+LTIM,2016,+,-,-,Reinvestment
+LTIM,2017,+,-,-,Reinvestment
+LTIM,2018,+,-,-,Reinvestment
+LTIM,2019,+,-,-,Reinvestment
+LTIM,2020,+,-,-,Reinvestment
+LTIM,2021,+,-,-,Reinvestment
+LTIM,2022,+,-,-,Reinvestment
+LTIM,2023,+,-,-,Reinvestment
+LTIM,2024,+,-,-,Reinvestment
+M&M,2013,-,-,+,Debt Funded Growth
+M&M,2014,-,-,+,Debt Funded Growth
+M&M,2015,+,-,+,Mixed
+M&M,2016,+,-,+,Mixed
+M&M,2017,+,-,+,Mixed
+M&M,2018,+,-,+,Mixed
+M&M,2019,-,-,+,Debt Funded Growth
+M&M,2020,-,-,+,Debt Funded Growth
+M&M,2021,+,-,+,Mixed
+M&M,2022,+,-,-,Reinvestment
+M&M,2023,-,-,+,Debt Funded Growth
+M&M,2024,-,-,+,Debt Funded Growth
+MARUTI,2013,+,-,-,Reinvestment
+MARUTI,2014,+,-,-,Reinvestment
+MARUTI,2015,+,-,-,Reinvestment
+MARUTI,2016,+,-,-,Reinvestment
+MARUTI,2017,+,-,-,Reinvestment
+MARUTI,2018,+,-,-,Reinvestment
+MARUTI,2019,+,-,-,Reinvestment
+MARUTI,2020,+,-,-,Reinvestment
+MARUTI,2021,+,-,-,Reinvestment
+MARUTI,2022,+,-,-,Reinvestment
+MARUTI,2023,+,-,-,Reinvestment
+MARUTI,2024,+,-,-,Reinvestment
+MOTHERSON,2013,+,-,-,Reinvestment
+MOTHERSON,2014,+,-,-,Reinvestment
+MOTHERSON,2015,+,-,+,Mixed
+MOTHERSON,2016,+,-,-,Reinvestment
+MOTHERSON,2017,+,-,+,Mixed
+MOTHERSON,2018,+,-,-,Reinvestment
+MOTHERSON,2019,+,-,-,Reinvestment
+MOTHERSON,2020,+,-,-,Reinvestment
+MOTHERSON,2021,+,-,-,Reinvestment
+MOTHERSON,2022,+,-,-,Reinvestment
+MOTHERSON,2023,+,-,-,Reinvestment
+MOTHERSON,2024,+,-,+,Mixed
+NAUKRI,2013,+,-,-,Reinvestment
+NAUKRI,2014,+,-,+,Mixed
+NAUKRI,2015,+,-,+,Mixed
+NAUKRI,2016,+,-,-,Reinvestment
+NAUKRI,2017,+,-,-,Reinvestment
+NAUKRI,2018,+,-,-,Reinvestment
+NAUKRI,2019,+,-,-,Reinvestment
+NAUKRI,2020,+,+,-,Shareholder Returns
+NAUKRI,2021,+,-,+,Mixed
+NAUKRI,2022,+,-,+,Mixed
+NAUKRI,2023,+,-,+,Mixed
+NAUKRI,2024,+,-,+,Mixed
+NESTLEIND,2013,+,-,-,Reinvestment
+NESTLEIND,2014,+,-,-,Reinvestment
+NESTLEIND,2015,+,-,-,Reinvestment
+NESTLEIND,2016,+,-,-,Reinvestment
+NESTLEIND,2017,+,-,-,Reinvestment
+NESTLEIND,2018,+,-,-,Reinvestment
+NESTLEIND,2019,+,+,-,Shareholder Returns
+NESTLEIND,2020,+,-,-,Reinvestment
+NESTLEIND,2021,+,-,-,Reinvestment
+NESTLEIND,2022,+,-,-,Reinvestment
+NESTLEIND,2023,+,-,-,Reinvestment
+NESTLEIND,2024,+,-,-,Reinvestment
+NHPC,2013,+,-,-,Reinvestment
+NHPC,2014,+,-,-,Reinvestment
+NHPC,2015,+,-,-,Reinvestment
+NHPC,2016,+,-,-,Reinvestment
+NHPC,2017,+,-,-,Reinvestment
+NHPC,2018,+,-,-,Reinvestment
+NHPC,2019,+,-,-,Reinvestment
+NHPC,2020,+,-,+,Mixed
+NHPC,2021,+,-,-,Reinvestment
+NHPC,2022,+,-,-,Reinvestment
+NHPC,2023,+,-,-,Reinvestment
+NHPC,2024,+,-,-,Reinvestment
+NTPC,2013,+,-,+,Mixed
+NTPC,2014,+,-,-,Reinvestment
+NTPC,2015,+,-,-,Reinvestment
+NTPC,2016,+,-,-,Reinvestment
+NTPC,2017,+,-,+,Mixed
+NTPC,2018,+,-,+,Mixed
+NTPC,2019,+,-,+,Mixed
+NTPC,2020,+,-,+,Mixed
+NTPC,2021,+,-,-,Reinvestment
+NTPC,2022,+,-,-,Reinvestment
+NTPC,2023,+,-,-,Reinvestment
+NTPC,2024,+,-,-,Reinvestment
+ONGC,2013,+,-,-,Reinvestment
+ONGC,2014,+,-,+,Mixed
+ONGC,2015,+,-,-,Reinvestment
+ONGC,2016,+,-,-,Reinvestment
+ONGC,2017,+,-,-,Reinvestment
+ONGC,2018,+,-,+,Mixed
+ONGC,2019,+,-,-,Reinvestment
+ONGC,2020,+,-,-,Reinvestment
+ONGC,2021,+,-,-,Reinvestment
+ONGC,2022,+,-,-,Reinvestment
+ONGC,2023,+,-,-,Reinvestment
+ONGC,2024,+,-,-,Reinvestment
+PFC,2013,-,+,+,Distress
+PFC,2014,-,+,+,Distress
+PFC,2015,-,-,+,Debt Funded Growth
+PFC,2016,-,-,+,Debt Funded Growth
+PFC,2017,+,-,+,Mixed
+PFC,2018,-,+,+,Distress
+PFC,2019,-,-,+,Debt Funded Growth
+PFC,2020,-,-,+,Debt Funded Growth
+PFC,2021,-,+,+,Distress
+PFC,2022,+,-,-,Reinvestment
+PFC,2023,-,-,+,Debt Funded Growth
+PFC,2024,-,-,+,Debt Funded Growth
+PIDILITIND,2013,+,-,-,Reinvestment
+PIDILITIND,2014,+,-,-,Reinvestment
+PIDILITIND,2015,+,-,-,Reinvestment
+PIDILITIND,2016,+,-,-,Reinvestment
+PIDILITIND,2017,+,-,+,Mixed
+PIDILITIND,2018,+,+,-,Shareholder Returns
+PIDILITIND,2019,+,-,-,Reinvestment
+PIDILITIND,2020,+,+,-,Shareholder Returns
+PIDILITIND,2021,+,-,-,Reinvestment
+PIDILITIND,2022,+,-,-,Reinvestment
+PIDILITIND,2023,+,-,-,Reinvestment
+PIDILITIND,2024,+,-,-,Reinvestment
+PNB,2013,-,-,-,Pre-Revenue
+PNB,2014,+,-,+,Mixed
+PNB,2015,+,-,+,Mixed
+PNB,2016,+,-,+,Mixed
+PNB,2017,+,+,-,Shareholder Returns
+PNB,2018,-,+,+,Distress
+PNB,2019,-,-,+,Debt Funded Growth
+PNB,2020,-,-,+,Debt Funded Growth
+PNB,2021,+,-,+,Mixed
+PNB,2022,+,-,+,Mixed
+PNB,2023,+,-,+,Mixed
+PNB,2024,-,-,+,Debt Funded Growth
+POWERGRID,2013,+,-,+,Mixed
+POWERGRID,2014,+,-,+,Mixed
+POWERGRID,2015,+,-,+,Mixed
+POWERGRID,2016,+,-,+,Mixed
+POWERGRID,2017,+,-,+,Mixed
+POWERGRID,2018,+,-,+,Mixed
+POWERGRID,2019,+,-,-,Reinvestment
+POWERGRID,2020,+,-,-,Reinvestment
+POWERGRID,2021,+,-,-,Reinvestment
+POWERGRID,2022,+,+,-,Shareholder Returns
+POWERGRID,2023,+,-,-,Reinvestment
+POWERGRID,2024,+,-,-,Reinvestment
+RECLTD,2013,-,+,+,Distress
+RECLTD,2014,-,+,+,Distress
+RECLTD,2015,-,+,+,Distress
+RECLTD,2016,-,-,+,Debt Funded Growth
+RECLTD,2017,+,-,-,Reinvestment
+RECLTD,2018,-,+,+,Distress
+RECLTD,2019,-,+,+,Distress
+RECLTD,2020,-,+,+,Distress
+RECLTD,2021,-,+,+,Distress
+RECLTD,2022,-,-,+,Debt Funded Growth
+RECLTD,2023,-,-,+,Debt Funded Growth
+RECLTD,2024,-,-,+,Debt Funded Growth
+RELIANCE,2013,+,-,+,Mixed
+RELIANCE,2014,+,-,+,Mixed
+RELIANCE,2015,+,-,+,Mixed
+RELIANCE,2016,+,-,-,Reinvestment
+RELIANCE,2017,+,-,+,Mixed
+RELIANCE,2018,+,-,-,Reinvestment
+RELIANCE,2019,+,-,+,Mixed
+RELIANCE,2020,+,-,-,Reinvestment
+RELIANCE,2021,+,-,+,Mixed
+RELIANCE,2022,+,-,+,Mixed
+RELIANCE,2023,+,-,+,Mixed
+RELIANCE,2024,+,-,-,Reinvestment
+SBILIFE,2013,+,-,-,Reinvestment
+SBILIFE,2014,+,-,-,Reinvestment
+SBILIFE,2015,+,-,-,Reinvestment
+SBILIFE,2016,+,-,-,Reinvestment
+SBILIFE,2017,+,-,-,Reinvestment
+SBILIFE,2018,+,-,-,Reinvestment
+SBILIFE,2019,+,-,-,Reinvestment
+SBILIFE,2020,+,-,-,Reinvestment
+SBILIFE,2021,+,-,+,Mixed
+SBILIFE,2022,+,-,-,Reinvestment
+SBILIFE,2023,+,-,-,Reinvestment
+SBILIFE,2024,+,-,-,Reinvestment
+SBIN,2013,+,-,-,Reinvestment
+SBIN,2014,+,-,+,Mixed
+SBIN,2015,+,-,-,Reinvestment
+SBIN,2016,+,-,+,Mixed
+SBIN,2017,+,-,-,Reinvestment
+SBIN,2018,-,+,+,Distress
+SBIN,2019,+,+,+,Cash Accumulator
+SBIN,2020,+,-,+,Mixed
+SBIN,2021,+,-,+,Mixed
+SBIN,2022,+,-,-,Reinvestment
+SBIN,2023,-,-,+,Debt Funded Growth
+SBIN,2024,+,-,-,Reinvestment
+SHREECEM,2013,+,-,-,Reinvestment
+SHREECEM,2014,+,-,-,Reinvestment
+SHREECEM,2015,+,-,-,Reinvestment
+SHREECEM,2016,+,-,-,Reinvestment
+SHREECEM,2017,+,-,-,Reinvestment
+SHREECEM,2018,+,-,+,Mixed
+SHREECEM,2019,+,-,-,Reinvestment
+SHREECEM,2020,+,-,+,Mixed
+SHREECEM,2021,+,-,-,Reinvestment
+SHREECEM,2022,+,-,-,Reinvestment
+SHREECEM,2023,+,-,-,Reinvestment
+SHREECEM,2024,+,-,-,Reinvestment
+SHRIRAMFIN,2013,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2014,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2015,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2016,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2017,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2018,-,+,+,Distress
+SHRIRAMFIN,2019,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2020,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2021,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2022,-,-,+,Debt Funded Growth
+SHRIRAMFIN,2023,-,+,+,Distress
+SHRIRAMFIN,2024,-,-,+,Debt Funded Growth
+SIEMENS,2011,+,+,-,Shareholder Returns
+SIEMENS,2014,+,+,-,Shareholder Returns
+SIEMENS,2015,+,+,-,Shareholder Returns
+SIEMENS,2016,+,+,-,Shareholder Returns
+SIEMENS,2017,+,+,-,Shareholder Returns
+SIEMENS,2018,+,-,-,Reinvestment
+SIEMENS,2019,+,-,-,Reinvestment
+SIEMENS,2020,+,+,-,Shareholder Returns
+SIEMENS,2021,+,-,-,Reinvestment
+SIEMENS,2022,+,-,-,Reinvestment
+SIEMENS,2023,+,-,-,Reinvestment
+SIEMENS,2024,+,-,-,Reinvestment
+SUNPHARMA,2013,+,-,-,Reinvestment
+SUNPHARMA,2014,+,-,+,Mixed
+SUNPHARMA,2015,+,-,-,Reinvestment
+SUNPHARMA,2016,+,-,-,Reinvestment
+SUNPHARMA,2017,+,-,-,Reinvestment
+SUNPHARMA,2018,+,-,-,Reinvestment
+SUNPHARMA,2019,+,-,-,Reinvestment
+SUNPHARMA,2020,+,-,-,Reinvestment
+SUNPHARMA,2021,+,+,-,Shareholder Returns
+SUNPHARMA,2022,+,-,-,Reinvestment
+SUNPHARMA,2023,+,-,+,Mixed
+SUNPHARMA,2024,+,-,-,Reinvestment
+TATACONSUM,2013,+,+,+,Cash Accumulator
+TATACONSUM,2014,+,-,-,Reinvestment
+TATACONSUM,2015,+,-,-,Reinvestment
+TATACONSUM,2016,+,+,-,Shareholder Returns
+TATACONSUM,2017,+,+,-,Shareholder Returns
+TATACONSUM,2018,+,-,-,Reinvestment
+TATACONSUM,2019,+,+,-,Shareholder Returns
+TATACONSUM,2020,+,-,-,Reinvestment
+TATACONSUM,2021,+,-,-,Reinvestment
+TATACONSUM,2022,+,-,-,Reinvestment
+TATACONSUM,2023,+,-,-,Reinvestment
+TATACONSUM,2024,+,-,+,Mixed
+TATAMOTORS,2013,+,-,-,Reinvestment
+TATAMOTORS,2014,+,-,-,Reinvestment
+TATAMOTORS,2015,+,-,+,Mixed
+TATAMOTORS,2016,+,-,-,Reinvestment
+TATAMOTORS,2017,+,-,+,Mixed
+TATAMOTORS,2018,+,-,+,Mixed
+TATAMOTORS,2019,+,-,+,Mixed
+TATAMOTORS,2020,+,-,+,Mixed
+TATAMOTORS,2021,+,-,+,Mixed
+TATAMOTORS,2022,+,-,-,Reinvestment
+TATAMOTORS,2023,+,-,-,Reinvestment
+TATAMOTORS,2024,+,-,-,Reinvestment
+TATAPOWER,2013,+,-,-,Reinvestment
+TATAPOWER,2014,+,-,-,Reinvestment
+TATAPOWER,2015,+,-,-,Reinvestment
+TATAPOWER,2016,+,-,-,Reinvestment
+TATAPOWER,2017,+,-,+,Mixed
+TATAPOWER,2018,+,-,-,Reinvestment
+TATAPOWER,2019,+,-,-,Reinvestment
+TATAPOWER,2020,+,-,-,Reinvestment
+TATAPOWER,2021,+,+,-,Shareholder Returns
+TATAPOWER,2022,+,-,-,Reinvestment
+TATAPOWER,2023,+,-,+,Mixed
+TATAPOWER,2024,+,-,-,Reinvestment
+TATASTEEL,2013,+,-,-,Reinvestment
+TATASTEEL,2014,+,-,+,Mixed
+TATASTEEL,2015,+,-,-,Reinvestment
+TATASTEEL,2016,+,-,-,Reinvestment
+TATASTEEL,2017,+,-,-,Reinvestment
+TATASTEEL,2018,+,-,+,Mixed
+TATASTEEL,2019,+,-,-,Reinvestment
+TATASTEEL,2020,+,-,-,Reinvestment
+TATASTEEL,2021,+,-,-,Reinvestment
+TATASTEEL,2022,+,-,-,Reinvestment
+TATASTEEL,2023,+,-,-,Reinvestment
+TATASTEEL,2024,+,-,-,Reinvestment
+TECHM,2013,+,-,+,Mixed
+TECHM,2014,+,+,-,Shareholder Returns
+TECHM,2015,+,-,-,Reinvestment
+TECHM,2016,+,-,-,Reinvestment
+TECHM,2017,+,-,-,Reinvestment
+TECHM,2018,+,-,-,Reinvestment
+TECHM,2019,+,-,-,Reinvestment
+TECHM,2020,+,+,-,Shareholder Returns
+TECHM,2021,+,-,-,Reinvestment
+TECHM,2022,+,+,-,Shareholder Returns
+TECHM,2023,+,-,-,Reinvestment
+TECHM,2024,+,-,-,Reinvestment
+TITAN,2013,+,-,-,Reinvestment
+TITAN,2014,-,-,+,Debt Funded Growth
+TITAN,2015,+,-,-,Reinvestment
+TITAN,2016,+,-,-,Reinvestment
+TITAN,2017,+,-,-,Reinvestment
+TITAN,2018,-,+,-,Mixed
+TITAN,2019,+,-,-,Reinvestment
+TITAN,2020,-,+,-,Mixed
+TITAN,2021,+,-,-,Reinvestment
+TITAN,2022,-,+,-,Mixed
+TITAN,2023,+,-,+,Mixed
+TITAN,2024,+,-,-,Reinvestment
+TORNTPHARM,2013,+,-,+,Mixed
+TORNTPHARM,2014,+,-,+,Mixed
+TORNTPHARM,2015,+,-,+,Mixed
+TORNTPHARM,2016,+,-,-,Reinvestment
+TORNTPHARM,2017,+,-,-,Reinvestment
+TORNTPHARM,2018,+,-,+,Mixed
+TORNTPHARM,2019,+,-,-,Reinvestment
+TORNTPHARM,2020,+,+,-,Shareholder Returns
+TORNTPHARM,2021,+,-,-,Reinvestment
+TORNTPHARM,2022,+,-,-,Reinvestment
+TORNTPHARM,2023,+,-,+,Mixed
+TORNTPHARM,2024,+,-,-,Reinvestment
+TRENT,2013,+,-,+,Mixed
+TRENT,2014,-,-,-,Pre-Revenue
+TRENT,2015,-,-,+,Debt Funded Growth
+TRENT,2016,+,-,-,Reinvestment
+TRENT,2017,+,-,-,Reinvestment
+TRENT,2018,+,-,-,Reinvestment
+TRENT,2019,+,-,+,Mixed
+TRENT,2020,+,-,+,Mixed
+TRENT,2021,+,+,-,Shareholder Returns
+TRENT,2022,+,+,-,Shareholder Returns
+TRENT,2023,+,-,-,Reinvestment
+TRENT,2024,+,-,-,Reinvestment
+TVSMOTOR,2013,+,-,-,Reinvestment
+TVSMOTOR,2014,+,-,-,Reinvestment
+TVSMOTOR,2015,+,-,+,Mixed
+TVSMOTOR,2016,+,-,-,Reinvestment
+TVSMOTOR,2017,+,-,-,Reinvestment
+TVSMOTOR,2018,+,-,+,Mixed
+TVSMOTOR,2019,-,-,+,Debt Funded Growth
+TVSMOTOR,2020,+,-,+,Mixed
+TVSMOTOR,2021,+,-,+,Mixed
+TVSMOTOR,2022,-,-,+,Debt Funded Growth
+TVSMOTOR,2023,-,-,+,Debt Funded Growth
+TVSMOTOR,2024,-,-,+,Debt Funded Growth
+ULTRACEMCO,2013,+,-,+,Mixed
+ULTRACEMCO,2014,+,-,-,Reinvestment
+ULTRACEMCO,2015,+,-,-,Reinvestment
+ULTRACEMCO,2016,+,-,-,Reinvestment
+ULTRACEMCO,2017,+,-,-,Reinvestment
+ULTRACEMCO,2018,+,+,-,Shareholder Returns
+ULTRACEMCO,2019,+,+,-,Shareholder Returns
+ULTRACEMCO,2020,+,-,-,Reinvestment
+ULTRACEMCO,2021,+,-,-,Reinvestment
+ULTRACEMCO,2022,+,+,-,Shareholder Returns
+ULTRACEMCO,2023,+,-,-,Reinvestment
+ULTRACEMCO,2024,+,-,-,Reinvestment
+UNIONBANK,2013,-,-,+,Debt Funded Growth
+UNIONBANK,2014,+,-,+,Mixed
+UNIONBANK,2015,-,-,+,Debt Funded Growth
+UNIONBANK,2016,+,-,-,Reinvestment
+UNIONBANK,2017,-,-,+,Debt Funded Growth
+UNIONBANK,2018,+,-,+,Mixed
+UNIONBANK,2019,-,-,+,Debt Funded Growth
+UNIONBANK,2020,-,-,+,Debt Funded Growth
+UNIONBANK,2021,+,-,-,Reinvestment
+UNIONBANK,2022,+,-,-,Reinvestment
+UNIONBANK,2023,+,-,-,Reinvestment
+UNIONBANK,2024,+,-,-,Reinvestment
+UNITDSPR,2013,+,-,-,Reinvestment
+UNITDSPR,2014,-,-,+,Debt Funded Growth
+UNITDSPR,2015,-,+,-,Mixed
+UNITDSPR,2016,+,+,-,Shareholder Returns
+UNITDSPR,2017,+,-,-,Reinvestment
+UNITDSPR,2018,+,+,-,Shareholder Returns
+UNITDSPR,2019,+,-,-,Reinvestment
+UNITDSPR,2020,+,-,-,Reinvestment
+UNITDSPR,2021,+,-,-,Reinvestment
+UNITDSPR,2022,+,-,-,Reinvestment
+UNITDSPR,2023,+,-,-,Reinvestment
+UNITDSPR,2024,+,+,-,Shareholder Returns
+VBL,2012,+,-,+,Mixed
+VBL,2013,+,-,+,Mixed
+VBL,2014,+,-,+,Mixed
+VBL,2015,+,-,-,Reinvestment
+VBL,2016,+,-,+,Mixed
+VBL,2017,+,-,+,Mixed
+VBL,2018,+,-,-,Reinvestment
+VBL,2019,+,-,+,Mixed
+VBL,2020,+,-,-,Reinvestment
+VBL,2021,+,-,-,Reinvestment
+VBL,2022,+,-,-,Reinvestment
+VBL,2023,+,-,+,Mixed
+VEDL,2013,+,-,+,Mixed
+VEDL,2014,+,-,-,Reinvestment
+VEDL,2015,+,-,-,Reinvestment
+VEDL,2016,+,-,-,Reinvestment
+VEDL,2017,+,+,-,Shareholder Returns
+VEDL,2018,+,+,-,Shareholder Returns
+VEDL,2019,+,-,-,Reinvestment
+VEDL,2020,+,-,-,Reinvestment
+VEDL,2021,+,-,-,Reinvestment
+VEDL,2022,+,-,-,Reinvestment
+VEDL,2023,+,-,-,Reinvestment
+VEDL,2024,+,-,-,Reinvestment
+WIPRO,2013,+,-,-,Reinvestment
+WIPRO,2014,+,-,-,Reinvestment
+WIPRO,2015,+,-,-,Reinvestment
+WIPRO,2016,+,-,-,Reinvestment
+WIPRO,2017,+,-,-,Reinvestment
+WIPRO,2018,+,+,-,Shareholder Returns
+WIPRO,2019,+,+,-,Shareholder Returns
+WIPRO,2020,+,+,-,Shareholder Returns
+WIPRO,2021,+,+,-,Shareholder Returns
+WIPRO,2022,+,-,+,Mixed
+WIPRO,2023,+,-,-,Reinvestment
+WIPRO,2024,+,+,-,Shareholder Returns
+ZOMATO,2020,-,+,+,Distress
+ZOMATO,2021,-,-,+,Debt Funded Growth
+ZOMATO,2022,-,-,+,Debt Funded Growth
+ZOMATO,2023,-,+,-,Mixed
+ZOMATO,2024,+,-,-,Reinvestment
+ZYDUSLIFE,2013,+,-,+,Mixed
+ZYDUSLIFE,2014,+,-,-,Reinvestment
+ZYDUSLIFE,2015,+,-,-,Reinvestment
+ZYDUSLIFE,2016,+,-,-,Reinvestment
+ZYDUSLIFE,2017,+,-,+,Mixed
+ZYDUSLIFE,2018,+,-,+,Mixed
+ZYDUSLIFE,2019,+,-,+,Mixed
+ZYDUSLIFE,2020,+,-,-,Reinvestment
+ZYDUSLIFE,2021,+,-,-,Reinvestment
+ZYDUSLIFE,2022,+,-,-,Reinvestment
+ZYDUSLIFE,2023,+,+,-,Shareholder Returns
+ZYDUSLIFE,2024,+,-,-,Reinvestment
