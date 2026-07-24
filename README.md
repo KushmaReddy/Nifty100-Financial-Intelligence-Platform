@@ -217,7 +217,86 @@ python main.py
 **Current Sprint:** Sprint 1 ✅ Completed
 
 The ETL pipeline has been successfully implemented and verified. The project is ready to move to Sprint 2.
+# Sprint 2 – Financial Ratio Engine
 
+## Objective
+Developed a complete Financial Ratio Engine for all Nifty100 companies by calculating financial KPIs from Profit & Loss and Balance Sheet data.
+
+---
+
+## Features Implemented
+
+### Profitability Ratios
+- Net Profit Margin
+- Operating Profit Margin
+- Return on Equity (ROE)
+- Return on Capital Employed (ROCE)
+- Return on Assets (ROA)
+
+---
+
+### Leverage & Efficiency Ratios
+- Debt to Equity Ratio
+- Interest Coverage Ratio
+- Net Debt
+- Asset Turnover Ratio
+- Debt Free Flag
+- High Leverage Flag
+
+---
+
+### CAGR Engine
+- Revenue CAGR
+- PAT CAGR
+- EPS CAGR
+- 3-Year, 5-Year and 10-Year Growth
+- Turnaround Detection
+- Decline Detection
+
+---
+
+### Cash Flow KPIs
+- Free Cash Flow
+- CFO Quality Score
+- Free Cash Flow Conversion
+- CapEx Intensity
+- Capital Allocation Classification
+
+---
+
+### Database
+Generated and populated the **financial_ratios** table in SQLite containing all computed KPIs.
+
+---
+
+### Validation
+Implemented:
+
+- ROE validation
+- ROCE validation
+- OPM cross-validation
+- Ratio edge case logging
+- Manual validation scripts
+- Unit tests
+
+---
+
+### Reports Generated
+
+- financial_ratios.csv
+- cagr_report.csv
+- cashflow_kpis.csv
+- capital_allocation.csv
+- roe_roce_validation.csv
+- ratio_edge_cases.log
+
+---
+
+## Sprint 2 Status
+
+✅ Completed Successfully
+
+All major financial ratio modules were implemented, validated, tested and committed to GitHub.
 ---
 
 # 👩‍💻 Author
