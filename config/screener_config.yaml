@@ -1,0 +1,5 @@
+filters:
+  roe_min: 15
+  de_max: 1.0
+  fcf_min: 0
+  revenue_cagr_5y_min: 10

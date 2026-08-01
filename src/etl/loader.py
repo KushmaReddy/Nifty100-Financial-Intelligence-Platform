@@ -1,6 +1,5 @@
 import sqlite3
 from pathlib import Path
-
 import pandas as pd
 
 from src.utils import normalize_ticker, normalize_year
@@ -17,7 +16,14 @@ def load_excel(file_name):
     if not file_path.exists():
         raise FileNotFoundError(f"{file_name} not found.")
 
-    df = pd.read_excel(file_path, header=1)
+    if file_name in [
+        "market_cap.xlsx",
+        "sectors.xlsx",
+        "financial_ratios.xlsx"
+    ]:
+        df = pd.read_excel(file_path, header=0)
+    else:
+        df = pd.read_excel(file_path, header=1)
 
     print(f"{file_name} loaded successfully.")
     print(f"Rows: {len(df)}")

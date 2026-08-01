@@ -28,7 +28,6 @@ financial_ratios = financial_ratios.merge(
     how="left"
 )
 
-# ADD THIS BLOCK HERE
 financial_ratios = financial_ratios[
     [
         "company_id",
@@ -59,14 +58,12 @@ financial_ratios = financial_ratios[
     ]
 ]
 
-# ADD THIS BLOCK HERE
 financial_ratios.to_sql(
     "financial_ratios",
     conn,
-    if_exists="append",
+    if_exists="replace",
     index=False
 )
-
 print(financial_ratios.head())
 
 cursor = conn.cursor()
