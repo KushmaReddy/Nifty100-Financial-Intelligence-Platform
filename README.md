@@ -1,16 +1,26 @@
-# 📊 Nifty100 Financial Intelligence Platform
+# 📊 N100 Financial Intelligence Platform
 
-Python | SQLite | ETL | Financial Analytics | Data Engineering
+Python | SQLite | Pandas | Streamlit | Plotly | Financial Analytics | Data Engineering
 
-A Financial Intelligence Platform built using **Python**, **SQLite**, and **Pandas** to analyze financial data of Nifty 100 companies. The project follows an end-to-end ETL workflow, beginning with data ingestion and validation, and will gradually expand into financial ratio analysis, company comparison, dashboards, and reporting.
+A Financial Intelligence Platform built using Python, SQLite, Pandas and Streamlit to analyze financial data of Nifty 100 companies. The project follows an end-to-end ETL pipeline, financial ratio engine, company intelligence modules, and an interactive dashboard for investment analysis.
 
 ---
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
-The objective of this project is to build a centralized platform that processes financial information of Nifty 100 companies and converts raw Excel datasets into structured, validated, and queryable data.
+The objective of this project is to build a centralized financial intelligence platform that converts raw financial statements of Nifty100 companies into structured, validated, queryable and interactive analytical insights.
 
-The project is being developed in multiple sprints.
+The platform consists of:
+
+- ETL Pipeline
+- Data Validation Framework
+- Financial Ratio Engine
+- Company Analytics
+- Peer Comparison
+- Stock Screener
+- Interactive Dashboard
+- Valuation Module
+- Downloadable Reports
 
 ---
 
@@ -18,268 +28,93 @@ The project is being developed in multiple sprints.
 
 | Sprint | Status |
 |---------|--------|
-| Sprint 1 – ETL Foundation 
-| Sprint 2 – Financial Ratio Engine 
-| Sprint 3 – Company Analysis 
-| Sprint 4 – Dashboard Development 
-| Sprint 5 – Advanced Analytics
-| Sprint 6 – Final Integration & Documentation
+| Sprint 1 – ETL Foundation | ✅ Completed |
+| Sprint 2 – Financial Ratio Engine | ✅ Completed |
+| Sprint 3 – Company Intelligence & Analytics | ✅ Completed |
+| Sprint 4 – Dashboard & Valuation Module | ✅ Completed |
 
 ---
 
-# ✅ Sprint 1 Deliverables
-
-Sprint 1 focused on building the data foundation of the project.
-
-### Completed Tasks
-
-- Project environment setup
-- Project folder structure
-- Excel data loader
-- Data cleaning pipeline
-- Year normalization
-- Ticker normalization
-- Duplicate removal
-- Data quality validation
-- Validation report generation
-- Load audit report generation
-- SQLite database creation
-- Loading cleaned datasets into SQLite
-- Exploratory SQL queries
-- Database integrity verification
-- Git version control
-- GitHub repository setup
-
----
-
-# 📂 Datasets Used
-
-The project processes **12 datasets**:
-
-- Companies
-- Profit & Loss
-- Balance Sheet
-- Cash Flow
-- Analysis
-- Documents
-- Pros & Cons
-- Financial Ratios
-- Market Cap
-- Peer Groups
-- Sectors
-- Stock Prices
-
----
-
-# 🛠 Technology Stack
-
-| Technology | Purpose |
-|------------|---------|
-| Python | Programming Language |
-| Pandas | Data Processing |
-| NumPy | Numerical Operations |
-| SQLite | Database |
-| OpenPyXL | Excel File Handling |
-| Git | Version Control |
-| GitHub | Repository Hosting |
-| VS Code | Development Environment |
-
----
-
-# 📁 Project Structure
-
-```
-Nifty100_Project/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── src/
-│   ├── etl/
-│   ├── reports/
-│   ├── validator.py
-│   ├── utils.py
-│   └── query.py
-│
-├── tests/
-│
-├── README.md
-├── requirements.txt
-├── main.py
-├── check_db.py
-├── check_fk.py
-├── check_tables.py
-├── run_queries.py
-└── exploratory_queries.sql
-```
-
----
-
-# 🔄 Sprint 1 Workflow
-
-```
-Excel Files
-      │
-      ▼
-Data Loading
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Normalization
-      │
-      ▼
-Validation Rules
-      │
-      ▼
-SQLite Database
-      │
-      ▼
-SQL Verification
-      │
-      ▼
-Reports Generated
-```
-
----
-
-# 📊 Sprint 1 Results
-
-Successfully:
-
-- Loaded all project datasets
-- Cleaned duplicate records
-- Normalized financial years
-- Normalized company ticker symbols
-- Applied data quality validation rules
-- Generated `validation_failures.csv`
-- Generated `load_audit.csv`
-- Created SQLite database
-- Verified database integrity
-- Executed exploratory SQL queries
-
----
-
-# 📄 Reports Generated
-
-- `load_audit.csv`
-- `validation_failures.csv`
-- `exploratory_queries.sql`
-- `sprint1_retro.md`
-
----
-
-# 🎯 Upcoming Work
-
-Sprint 2 will focus on:
-
-- Financial Ratio Calculations
-- Profitability Analysis
-- Liquidity Ratios
-- Solvency Ratios
-- Efficiency Ratios
-- Financial Performance Insights
-
----
-
-# 💻 How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/KushmaReddy/Nifty100-Financial-Intelligence-Platform.git
-```
-
-Move into the project folder
-
-```bash
-cd Nifty100-Financial-Intelligence-Platform
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project
-
-```bash
-python main.py
-```
-
----
-
-# 📌 Project Status
-
-**Current Sprint:** Sprint 1 ✅ Completed
-
-The ETL pipeline has been successfully implemented and verified. The project is ready to move to Sprint 2.
-# Sprint 2 – Financial Ratio Engine
+# ✅ Sprint 1 – ETL Foundation
 
 ## Objective
-Developed a complete Financial Ratio Engine for all Nifty100 companies by calculating financial KPIs from Profit & Loss and Balance Sheet data.
+
+Built the complete ETL pipeline for loading, validating and storing financial datasets.
+
+### Features Implemented
+
+- Project environment setup
+- Folder structure
+- Excel loader
+- Data cleaning
+- Duplicate removal
+- Missing value handling
+- Year normalization
+- Company ticker normalization
+- Validation framework
+- Data quality rules
+- SQLite database creation
+- Database loading
+- SQL verification
+- Exploratory SQL queries
+- Load audit generation
+- Validation reports
+- Git version control
+
+### Reports Generated
+
+- load_audit.csv
+- validation_failures.csv
+- sprint1_retro.md
 
 ---
 
-## Features Implemented
+# ✅ Sprint 2 – Financial Ratio Engine
+
+## Objective
+
+Developed a complete Financial Ratio Engine for all Nifty100 companies.
 
 ### Profitability Ratios
+
+- ROE
+- ROCE
+- ROA
 - Net Profit Margin
 - Operating Profit Margin
-- Return on Equity (ROE)
-- Return on Capital Employed (ROCE)
-- Return on Assets (ROA)
 
----
+### Leverage Ratios
 
-### Leverage & Efficiency Ratios
-- Debt to Equity Ratio
+- Debt to Equity
 - Interest Coverage Ratio
-- Net Debt
-- Asset Turnover Ratio
 - Debt Free Flag
 - High Leverage Flag
 
----
+### Growth Metrics
 
-### CAGR Engine
 - Revenue CAGR
 - PAT CAGR
 - EPS CAGR
-- 3-Year, 5-Year and 10-Year Growth
+- 3-Year CAGR
+- 5-Year CAGR
+- 10-Year CAGR
 - Turnaround Detection
-- Decline Detection
-
----
 
 ### Cash Flow KPIs
+
 - Free Cash Flow
+- FCF Conversion
 - CFO Quality Score
-- Free Cash Flow Conversion
 - CapEx Intensity
 - Capital Allocation Classification
 
----
-
-### Database
-Generated and populated the **financial_ratios** table in SQLite containing all computed KPIs.
-
----
-
 ### Validation
-Implemented:
 
 - ROE validation
 - ROCE validation
-- OPM cross-validation
-- Ratio edge case logging
-- Manual validation scripts
-- Unit tests
-
----
+- OPM validation
+- Edge case testing
+- Manual verification
 
 ### Reports Generated
 
@@ -292,11 +127,250 @@ Implemented:
 
 ---
 
-## Sprint 2 Status
+# ✅ Sprint 3 – Company Intelligence & Analytics
 
-✅ Completed Successfully
+## Objective
 
-All major financial ratio modules were implemented, validated, tested and committed to GitHub.
+Built advanced analytical modules to compare companies and generate investment insights.
+
+### Modules Developed
+
+### Company Profile
+
+- Company overview
+- Sector information
+- Business description
+- Key financial metrics
+
+### Peer Comparison
+
+- Peer group identification
+- Industry benchmarking
+- Financial comparison
+- Radar chart generation
+
+### Stock Screener
+
+- Multi-factor screening
+- Quality filters
+- Growth filters
+- Dividend filters
+- Value filters
+
+### Trend Analysis
+
+- Revenue trend
+- Profit trend
+- ROE trend
+- ROCE trend
+- Multi-year analysis
+
+### Reports Generated
+
+- peer_comparison.xlsx
+- screener_results.csv
+- radar chart outputs
+- sector analytics
+
+---
+
+# ✅ Sprint 4 – Dashboard & Valuation
+
+## Objective
+
+Built a complete Streamlit Financial Dashboard and Valuation Engine.
+
+### Dashboard Pages
+
+- Home Dashboard
+- Company Profile
+- Stock Screener
+- Peer Comparison
+- Trend Analysis
+- Sector Analysis
+- Capital Allocation
+- Reports
+
+### Dashboard Features
+
+- Interactive charts using Plotly
+- Sidebar filters
+- Company search
+- KPI cards
+- Sector insights
+- Download reports
+- Responsive navigation
+
+### Valuation Module
+
+Calculated
+
+- FCF Yield
+- Sector Median P/E
+- Sector Median P/B
+- Sector Median EV/EBITDA
+
+Generated valuation labels
+
+- Undervalued
+- Fairly Valued
+- Overvalued
+
+### Reports Generated
+
+- valuation_summary.xlsx
+- valuation_flags.csv
+
+### Testing
+
+Completed
+
+- Dashboard testing
+- Screen validation
+- Company search testing
+- CSV export testing
+- Edge case testing
+- Integration testing
+
+---
+
+# 📂 Datasets Used
+
+The project processes multiple financial datasets including
+
+- Companies
+- Profit & Loss
+- Balance Sheet
+- Cash Flow
+- Analysis
+- Documents
+- Pros & Cons
+- Financial Ratios
+- Market Capitalization
+- Peer Groups
+- Sectors
+- Stock Prices
+
+---
+
+# 🛠 Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| Pandas | Data Processing |
+| NumPy | Numerical Computing |
+| SQLite | Database |
+| Streamlit | Dashboard Development |
+| Plotly | Interactive Charts |
+| OpenPyXL | Excel Handling |
+| Git | Version Control |
+| GitHub | Repository Hosting |
+| VS Code | Development |
+
+---
+
+# 📁 Project Structure
+
+```
+Nifty100_Project/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── db/
+│
+├── outputs/
+│
+├── src/
+│   ├── analytics/
+│   ├── dashboard/
+│   ├── etl/
+│   ├── reports/
+│   ├── validator.py
+│   ├── utils.py
+│
+├── tests/
+│
+├── README.md
+├── requirements.txt
+└── main.py
+```
+
+---
+
+# 📊 Reports Generated
+
+- load_audit.csv
+- validation_failures.csv
+- financial_ratios.csv
+- cagr_report.csv
+- cashflow_kpis.csv
+- capital_allocation.csv
+- peer_comparison.xlsx
+- screener_results.csv
+- valuation_summary.xlsx
+- valuation_flags.csv
+
+---
+
+# ▶️ How to Run
+
+Clone the repository
+
+```bash
+git clone https://github.com/KushmaReddy/N100-Financial-Intelligence-Platform.git
+```
+
+Navigate to project
+
+```bash
+cd N100-Financial-Intelligence-Platform
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run Streamlit Dashboard
+
+```bash
+streamlit run src/dashboard/app.py
+```
+
+---
+
+# 🎯 Key Features
+
+- ETL Pipeline
+- Data Validation
+- Financial Ratio Engine
+- CAGR Analysis
+- Free Cash Flow Analysis
+- Company Intelligence
+- Peer Comparison
+- Stock Screener
+- Trend Analysis
+- Sector Analysis
+- Capital Allocation
+- Interactive Dashboard
+- Valuation Engine
+- Excel Report Generation
+
+---
+
+# 📌 Current Project Status
+
+## ✅ Sprint 1 Completed
+## ✅ Sprint 2 Completed
+## ✅ Sprint 3 Completed
+## ✅ Sprint 4 Completed
+
+The Financial Intelligence Platform now includes a complete ETL pipeline, financial analytics engine, company intelligence modules, interactive Streamlit dashboard, valuation engine and downloadable reports.
+
 ---
 
 # 👩‍💻 Author
@@ -305,8 +379,8 @@ All major financial ratio modules were implemented, validated, tested and commit
 
 PGDM – Data Science & Business Analytics
 
-
+ISBR Business School
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star! Business Analytics
+⭐ If you found this project useful, consider giving it a star!
