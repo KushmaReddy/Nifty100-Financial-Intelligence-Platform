@@ -370,7 +370,308 @@ streamlit run src/dashboard/app.py
 ## ✅ Sprint 4 Completed
 
 The Financial Intelligence Platform now includes a complete ETL pipeline, financial analytics engine, company intelligence modules, interactive Streamlit dashboard, valuation engine and downloadable reports.
+---
 
+# ✅ Sprint 5 – Financial Intelligence, NLP & Automated Reports
+
+## 🎯 Objective
+
+Sprint 5 focused on transforming raw financial data into intelligent insights by combining **Natural Language Processing (NLP)**, **Financial Intelligence**, **Company Ranking**, and **Automated PDF Report Generation**.
+
+The objective was to automate the generation of company-level and sector-level investment reports while enhancing the platform with intelligent financial analysis.
+
+---
+
+# 🧠 NLP Financial Intelligence Module
+
+Developed an NLP pipeline to extract structured financial information from unstructured textual analysis.
+
+### Features Implemented
+
+- Financial Analysis Parser
+- Regex-Based Text Extraction
+- CAGR Information Extraction
+- ROE Extraction
+- Stock Price CAGR Extraction
+- Profit Growth Extraction
+- Sales Growth Extraction
+- Automatic Parsing Validation
+- Parsing Failure Detection
+- Confidence-Based Data Cleaning
+
+### Reports Generated
+
+- analysis_parsed.csv
+- parse_failures.csv
+
+---
+
+# 📈 Pros & Cons Intelligence Engine
+
+Built an automated intelligence engine that converts raw textual company analysis into structured investment insights.
+
+### Features
+
+- Pros Extraction
+- Cons Extraction
+- Company-wise Aggregation
+- Duplicate Removal
+- Summary Generation
+
+### Reports Generated
+
+- pros_cons_generated.csv
+
+---
+
+# 💰 Cash Flow Intelligence Engine
+
+Developed an intelligent cash flow analyzer to evaluate a company's financial health.
+
+### Features
+
+- Operating Cash Flow Analysis
+- Investing Cash Flow Analysis
+- Financing Cash Flow Analysis
+- Cash Flow Classification
+- Capital Allocation Detection
+- Strong Cash Flow Identification
+- Weak Cash Flow Identification
+
+### Intelligence Labels
+
+- Strong Operating Cash Flow
+- Investing for Future Growth
+- Debt Repayment
+- Shareholder Returns
+- Weak Cash Flow
+
+### Reports Generated
+
+- cashflow_intelligence.xlsx
+
+---
+
+# 🚨 Financial Distress Detection
+
+Implemented an automated Financial Distress Engine to identify financially weak companies.
+
+### Metrics Used
+
+- ROE
+- ROCE
+- Debt-to-Equity Ratio
+- Interest Coverage Ratio
+- Free Cash Flow
+- Debt-Free Status
+- High Leverage Flag
+
+### Features
+
+- Distress Score Calculation
+- Financial Health Classification
+- Company Risk Identification
+- Early Warning Detection
+
+### Output
+
+- distress_alerts.csv
+
+---
+
+# 🏆 Company Ranking Engine
+
+Built a financial scoring system to rank companies based on multiple financial metrics.
+
+### Ranking Parameters
+
+- ROE
+- ROCE
+- Debt-to-Equity
+- Interest Coverage
+- Free Cash Flow
+- Debt-Free Flag
+- High Leverage Flag
+
+### Rating Categories
+
+- Excellent
+- Good
+- Average
+- Weak
+
+### Reports Generated
+
+- company_rankings.xlsx
+
+---
+
+# 📄 Company Tearsheet Generator
+
+Developed an automated PDF generator for creating professional company reports.
+
+Each tearsheet includes:
+
+- Company Overview
+- Business Description
+- ROE
+- ROCE
+- Face Value
+- Book Value
+- Pros
+- Cons
+
+Generated PDF reports for all companies in the dataset.
+
+### Output Folder
+
+```
+reports/
+└── tearsheets/
+```
+
+---
+
+# 🏢 Sector Report Generator
+
+Generated sector-level analytical reports.
+
+Each report includes:
+
+- Sector Overview
+- Company List
+- Median ROE
+- Median ROCE
+- Median P/E
+- Median P/B
+- Sector Statistics
+
+Generated reports for all sectors available in the dataset.
+
+### Output Folder
+
+```
+reports/
+└── sector/
+```
+
+---
+
+# 📑 Portfolio Summary Report
+
+Created an executive portfolio summary containing:
+
+- Company Name
+- Sector
+- ROE
+- ROCE
+- Investment Score
+- Company Rating
+
+### Output
+
+```
+reports/
+└── portfolio/
+    └── portfolio_summary.pdf
+```
+
+---
+
+# 📊 Reports Generated
+
+### CSV Reports
+
+- analysis_parsed.csv
+- parse_failures.csv
+- pros_cons_generated.csv
+- distress_alerts.csv
+
+### Excel Reports
+
+- company_rankings.xlsx
+- cashflow_intelligence.xlsx
+
+### PDF Reports
+
+- Company Tearsheets
+- Sector Reports
+- Portfolio Summary Report
+
+---
+
+# 🎯 Sprint 5 Achievements
+
+Successfully implemented:
+
+- NLP-Based Financial Text Parsing
+- Automated Pros & Cons Generation
+- Cash Flow Intelligence Engine
+- Financial Distress Detection
+- Company Ranking System
+- Automated Company PDF Reports
+- Sector-Level PDF Reports
+- Portfolio Summary Report
+
+---
+
+# 🚀 Skills Demonstrated
+
+### Programming
+
+- Python
+- Object-Oriented Programming
+
+### Data Processing
+
+- Pandas
+- NumPy
+
+### Database
+
+- SQLite
+- SQL Queries
+
+### NLP
+
+- Regular Expressions (Regex)
+- Text Parsing
+- Structured Information Extraction
+
+### Financial Analytics
+
+- Financial Ratio Analysis
+- Cash Flow Analysis
+- Company Ranking
+- Financial Health Assessment
+
+### Reporting
+
+- ReportLab PDF Generation
+- Excel Report Automation
+- Automated Portfolio Reports
+
+---
+
+# 📌 Sprint 5 Deliverables
+
+| Deliverable | Status |
+|-------------|--------|
+| NLP Parser | ✅ Completed |
+| Pros & Cons Generator | ✅ Completed |
+| Cash Flow Intelligence | ✅ Completed |
+| Financial Distress Engine | ✅ Completed |
+| Company Ranking Engine | ✅ Completed |
+| Company Tearsheet Generator | ✅ Completed |
+| Batch Tearsheet Generation | ✅ Completed |
+| Sector Report Generator | ✅ Completed |
+| Portfolio Summary PDF | ✅ Completed |
+
+---
+
+## 🎉 Sprint 5 Summary
+
+Sprint 5 transformed the platform from a financial analytics engine into a **Financial Intelligence Platform** capable of automatically generating structured insights, ranking companies, detecting financial distress, and producing professional PDF reports for companies, sectors, and portfolios.
 ---
 
 # 👩‍💻 Author
